@@ -9,3 +9,4 @@ some description here
 
 1. Open index.html in your browser
 
+2. refresh the page 
