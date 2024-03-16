@@ -10,3 +10,9 @@ some description here
 1. Open index.html in your browser
 
 2. refresh the page 
+
+## About Developers
+1. Ganesh Thakare
+2. Hariom Gawande
+3. Sanket Pise
+4. Jaydeep Sawale
