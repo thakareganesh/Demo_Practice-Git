@@ -1,7 +1,7 @@
 # Header
 some text
 
-# Sub Header
+## Sub Header
 
 some description here
 
