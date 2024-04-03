@@ -16,3 +16,6 @@ some description here
 2. Hariom Gawande
 3. Sanket Pise
 4. Jaydeep Sawale
+5. Akash Bhaware
+6. Pandurang Gajjewar
+7. Aniruddha Wankhede
