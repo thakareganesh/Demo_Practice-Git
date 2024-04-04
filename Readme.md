@@ -1,6 +1,6 @@
 # Project Name: Leave Management System in ServiceNow
 ## About LMS in Servicenow:-
-    In the contemporary workplace, Leave Management Systems (LMS) serve as essential
+In the contemporary workplace, Leave Management Systems (LMS) serve as essential
 tools for organizations to efficiently manage and track employee leaves, ensuring a
 harmonious balance between workforce requirements and employee well-being. This
 project is dedicated to implementing a Leave Management System using the powerful
